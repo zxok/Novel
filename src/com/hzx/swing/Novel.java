@@ -25,6 +25,7 @@ import com.hzx.dao.SqlSetup;
 import com.hzx.swing.util.*;
 
 public class Novel extends NovelTool {
+
     private static JFrame jf = new JFrame("TT小说");//窗口
     //顶部面板
     JPanel jpa = new JPanel(new FlowLayout(FlowLayout.LEFT,20,10));
