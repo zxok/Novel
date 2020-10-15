@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sqlitejdbc-v033-nested">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/sqlitejdbc-v033-nested.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
